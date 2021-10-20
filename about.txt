@@ -1,0 +1,9 @@
+Form Validation Website:
+This Website is completely made using JavaScript Regular Expressions. Little bit BootStrap in CSS is also used.
+
+Features:
+1. Can Validate User Names.
+2. Can Validate Mail Address.
+3. Can Validate Mobile Numbers.
+4. Form Submission Alerts.
+5. Simple UI design.
